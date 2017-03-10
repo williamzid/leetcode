@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-   /* 这是我的第一个简单的程序 */
+   /* 这是我的第一个简单的程序,test */
    fmt.Println("Hello, World!")
 }
